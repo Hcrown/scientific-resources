@@ -1,7 +1,0 @@
-# Telegram configuration with credentials
-telegram_config.yaml
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo

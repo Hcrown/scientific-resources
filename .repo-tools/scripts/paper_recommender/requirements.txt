@@ -1,5 +1,0 @@
-anthropic>=0.40
-arxiv>=2.0
-pyyaml
-requests
-pymupdf>=1.24.0
